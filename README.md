@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=RStudio&logoColor=white&color=5ea4e7)
 ![](https://img.shields.io/badge/Code&nbsp;|&nbsp;Database-MS&nbsp;SQL-informational?style=flat&logo=Mysql&logoColor=white&color=5ea4e7)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=MathWorks&logoColor=white&color=5ea4e7)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=5ea4e7)
 ![](https://img.shields.io/badge/Visualization&nbsp;Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=5ea4e7)
 ![](https://img.shields.io/badge/Tools-Jupyter&nbsp;Notebook-informational?style=flat&logo=Jupyter&logoColor=white&color=5ea4e7)
 ![](https://img.shields.io/badge/Tools-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=5ea4e7)
