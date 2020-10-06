@@ -12,7 +12,7 @@
 
 ### :computer: Technologies & Tools  
 
-###### Few skill sets that I possess:  
+###### Few skills that I possess:  
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=5ea4e7)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=RStudio&logoColor=white&color=5ea4e7)
