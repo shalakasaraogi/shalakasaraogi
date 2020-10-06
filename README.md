@@ -1,7 +1,5 @@
 ## Hello! <img src="https://raw.githubusercontent.com/shalakasaraogi/shalakasaraogi/master/wave.gif" width="30px">
 
-###### Take a look at my work or get in touch! 
-
 <p>
      <a href="https://github.com/shalakasaraogi"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
      <a href="https://www.linkedin.com/in/shalaka-saraogi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
