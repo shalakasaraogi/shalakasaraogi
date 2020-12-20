@@ -2,7 +2,6 @@
 
 <p>
      <a href="https://github.com/shalakasaraogi"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
-     <a href="https://www.linkedin.com/in/shalaka-saraogi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
      <a href="https://public.tableau.com/profile/vizze.ss"><img src="https://img.shields.io/badge/Tableau Public--_.svg?style=social&logo=tableau" alt= "Tableau"></a>   
      <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Scholar--_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
      <a href="mailto:shalakasaraogi@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" title="shalakasaraogi@gmail.com"></a>
@@ -28,6 +27,7 @@
 
 <!--
 **shalakasaraogi/shalakasaraogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/shalaka-saraogi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 Here are some ideas to get you started:
 
