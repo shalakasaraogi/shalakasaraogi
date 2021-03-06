@@ -7,8 +7,8 @@
      <a href="mailto:shalakasaraogi@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" title="shalakasaraogi@gmail.com"></a>
 </p>
 
-![Header](https://raw.githubusercontent.com/shalakasaraogi/shalakasaraogi/master/header.jpg "Header")
-
+<!--![Header](https://raw.githubusercontent.com/shalakasaraogi/shalakasaraogi/master/header.jpg "Header")
+-->
 ### :computer: Technologies & Tools  
 
 ###### Few skills that I possess:  
